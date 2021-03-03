@@ -2,7 +2,10 @@
 
 ----
 
-## Scripts that are bundled with [iCAS](http://alsoftiphone.com/iCAS/), a port of REDUCE to Apple's iOS by [AL Software](http://alsoftiphone.com/), automatically mirrored from <http://alsoftiphone.com/iCAS/bundledFiles/>
+## Scripts that are bundled with [iCAS](http://alsoftiphone.com/iCAS/)
+
+### iCAS is a port of REDUCE to Apple iOS by [AL Software](http://alsoftiphone.com/)
+### automatically mirrored from <http://alsoftiphone.com/iCAS/bundledFiles/>
 
 ----
 
