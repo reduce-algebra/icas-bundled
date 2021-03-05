@@ -12,6 +12,7 @@
 
 - [**Homepage**](http://alsoftiphone.com/iCAS/bundledFiles/)
 - [GitHub Mirror](https://github.com/reduce-algebra/icas-bundled)
+- [GitLab Mirror](https://gitlab.com/reduce-algebra/icas-bundled)
 - [SourceHut Mirror](https://git.sr.ht/~trn/icas-bundled)
 - [NotABug Mirror](https://notabug.org/reduce-algebra/icas-bundled)
 - [Chisel Mirror](https://chiselapp.com/user/reduce-algebra/repository/icas-bundled/)
